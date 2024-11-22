@@ -8,19 +8,15 @@ I'm a utility player with 5+ years of experience in the SaaS and HR Tech industr
 I developed an interest in Cybersecurity after helping my small startup earn it's SOC 2 Type 2 certification. As an integral member of the Security Team, I'm honing my technical skills to broaden my cybersecurity knowledgebase and take on more engaging challenges.
 
 ## Skills
-[Provide skills and associated project. Make sure to hyperlink the project - Remove this afterwards]]
+**The following tables are examples for formatting purposes only. As I continue to learn and complete projects, these sections will be filled with my real experience. Wish me luck.**
 
 | Skill                                         | Associated Project         |
 |-----------------------------------------------|----------------------------|
 | SIEM Implementation and Log Analysis          | <a href="https://google.com">Detection Lab</a>|
 | Network Traffic Monitoring and Attack Detection | <a href="https://google.com">Detection Lab</a>|
-| Security Automation with Shuffle SOAR         | SOC Automation Lab|
-| Incident Response Planning and Execution      | SOC Automation Lab|
-| Case Management with TheHive                  | SOC Automation Lab|
-| Scripting and Automation for Threat Mitigation | SOC Automation Lab|
 
 ## Tools
-[Provide tools and break them down into categories. Use ChatGPT to help create the link - Remove this afterwards]]
+**The following tables are examples for formatting purposes only. As I continue to learn and complete projects, these sections will be filled with my real experience. Wish me luck.**
 
 ### Network
 <div>
@@ -43,7 +39,7 @@ I developed an interest in Cybersecurity after helping my small startup earn it'
 </div>
 
 ## Certifications
-[Provide certifications that you have obtained. Use ChatGPT to help create the link - Remove this afterwards]]
+**The following tables are examples for formatting purposes only. As I continue to learn and complete projects, these sections will be filled with my real experience. Wish me luck.**
 <div>
 <img src="https://img.shields.io/badge/-Security%2B-FF0000?&style=for-the-badge&logo=CompTIA&logoColor=white" />
 <img src="https://img.shields.io/badge/-Network%2B-007ACC?&style=for-the-badge&logo=CompTIA&logoColor=white" />
